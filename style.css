@@ -1,0 +1,33 @@
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: beige;
+}
+
+a {
+    color:black;
+    font-size: larger;
+    padding: 8px;
+    margin: 16px;
+}
+
+a:hover {
+    color: blue;
+}
+
+h1 {
+    text-align: center;
+    margin: 16px;
+}
+
+.button{
+    background-color: lightskyblue;
+}
+
+img {
+    width: 480px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
